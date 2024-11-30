@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b7bf8783.css",
+    "main.js": "/static/js/main.99b6ad7c.js",
+    "static/media/ERickshaw.webp": "/static/media/ERickshaw.d5e41bcbd488b1eb6781.webp",
+    "static/media/chhotaHathi.png": "/static/media/chhotaHathi.d54a69fa82752eba6576.png",
+    "static/media/bolero.webp": "/static/media/bolero.9bde286127afa02d6fd1.webp",
+    "static/media/tataace.webp": "/static/media/tataace.5101bdf0a87f32c0a966.webp",
+    "index.html": "/index.html",
+    "main.b7bf8783.css.map": "/static/css/main.b7bf8783.css.map",
+    "main.99b6ad7c.js.map": "/static/js/main.99b6ad7c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7bf8783.css",
+    "static/js/main.99b6ad7c.js"
+  ]
+}
